@@ -1,7 +1,7 @@
 # Export Plugin
 module.exports = (BasePlugin) ->
 	# Define Plugin
-	class UglifyPlugin extends BasePlugin
+	class BeautifyPlugin extends BasePlugin
 		# Plugin Name
 		name: 'beautify'
 

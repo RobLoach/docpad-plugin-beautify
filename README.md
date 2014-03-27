@@ -11,7 +11,7 @@
 <!-- /BADGES -->
 
 
-Beautify HTML, CSS and JavaScript files using [JS Beautify](https://github.com/einars/js-beautify).
+Beautify HTML, CSS and JavaScript files from [DocPad](http://docpad.org) using [JS Beautify](https://github.com/einars/js-beautify).
 
 
 <!-- INSTALL/ -->
@@ -27,19 +27,7 @@ docpad install beautify
 
 ## Usage
 
-Create an HTML file with the following code:
-
-``` css
-.tabs{color:rgb(255, 255, 0)}
-```
-
-When DocPad builds the file, it will result in:
-
-``` css
-.tabs {
-    color: rgb(255, 255, 0)
-}
-```
+Any HTML, CSS or JavaScript file that is processed in `src/documents` will be beautified.
 
 
 ## Configure

@@ -29,7 +29,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/docpad/docpad-plugin-beautify.git"
+    "url": "https://github.com/RobLoach/docpad-plugin-beautify.git"
   },
   "engines": {
     "node": ">=0.4"
