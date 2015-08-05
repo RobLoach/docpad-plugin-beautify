@@ -34,7 +34,7 @@ Any HTML, CSS or JavaScript file that is processed in `src/documents` will be be
 
 ### Defaults
 
-The default configuration for this plugin is the equivalant of adding the
+The default configuration for this plugin is the equivalent of adding the
 following Beautify options to your [DocPad configuration file](http://docpad.org/docs/config):
 
 ``` coffee
